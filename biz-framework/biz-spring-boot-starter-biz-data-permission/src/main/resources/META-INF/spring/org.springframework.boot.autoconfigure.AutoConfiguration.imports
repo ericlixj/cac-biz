@@ -1,0 +1,2 @@
+com.cac.biz.framework.datapermission.config.BizDataPermissionAutoConfiguration
+com.cac.biz.framework.datapermission.config.BizDeptDataPermissionAutoConfiguration

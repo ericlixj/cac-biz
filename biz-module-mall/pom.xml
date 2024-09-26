@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>biz</artifactId>
+        <groupId>com.cac</groupId>
+        <version>${revision}</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>biz-module-mall</artifactId>
+    <packaging>pom</packaging>
+
+    <name>${project.artifactId}</name>
+
+    <description>
+        商城大模块，由 product 商品、promotion 营销、trade 交易、statistics 统计等组成
+    </description>
+    <modules>
+        <module>biz-module-promotion-api</module>
+        <module>biz-module-promotion-biz</module>
+        <module>biz-module-product-api</module>
+        <module>biz-module-product-biz</module>
+        <module>biz-module-trade-api</module>
+        <module>biz-module-trade-biz</module>
+        <module>biz-module-statistics-api</module>
+        <module>biz-module-statistics-biz</module>
+    </modules>
+
+</project>

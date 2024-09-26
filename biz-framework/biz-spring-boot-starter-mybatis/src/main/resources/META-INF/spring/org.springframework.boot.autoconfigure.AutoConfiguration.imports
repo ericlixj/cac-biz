@@ -1,0 +1,3 @@
+com.cac.biz.framework.datasource.config.BizDataSourceAutoConfiguration
+com.cac.biz.framework.mybatis.config.BizMybatisAutoConfiguration
+com.cac.biz.framework.translate.config.BizTranslateAutoConfiguration

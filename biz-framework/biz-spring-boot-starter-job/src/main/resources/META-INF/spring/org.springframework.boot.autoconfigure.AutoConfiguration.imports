@@ -1,0 +1,2 @@
+com.cac.biz.framework.quartz.config.BizQuartzAutoConfiguration
+com.cac.biz.framework.quartz.config.BizAsyncAutoConfiguration

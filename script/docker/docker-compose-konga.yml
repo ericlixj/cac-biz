@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  konga:
+    image: pantsel/konga:latest
+    environment:
+      NODE_ENV: "production"
+      DB_ADAPTER: "localDiskDb"
+    ports:
+      - "1337:1337"  # Konga 的 Web UI 端口映射

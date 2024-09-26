@@ -1,0 +1,6 @@
+com.cac.biz.framework.apilog.config.BizApiLogAutoConfiguration
+com.cac.biz.framework.jackson.config.BizJacksonAutoConfiguration
+com.cac.biz.framework.swagger.config.BizSwaggerAutoConfiguration
+com.cac.biz.framework.web.config.BizWebAutoConfiguration
+com.cac.biz.framework.xss.config.BizXssAutoConfiguration
+com.cac.biz.framework.banner.config.BizBannerAutoConfiguration

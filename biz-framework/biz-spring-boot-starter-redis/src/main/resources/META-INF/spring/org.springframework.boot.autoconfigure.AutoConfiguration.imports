@@ -1,0 +1,2 @@
+com.cac.biz.framework.redis.config.BizRedisAutoConfiguration
+com.cac.biz.framework.redis.config.BizCacheAutoConfiguration

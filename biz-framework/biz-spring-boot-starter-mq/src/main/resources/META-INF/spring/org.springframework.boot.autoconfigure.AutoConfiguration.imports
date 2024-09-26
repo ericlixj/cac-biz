@@ -1,0 +1,3 @@
+com.cac.biz.framework.mq.redis.config.BizRedisMQProducerAutoConfiguration
+com.cac.biz.framework.mq.redis.config.BizRedisMQConsumerAutoConfiguration
+com.cac.biz.framework.mq.rabbitmq.config.BizRabbitMQAutoConfiguration
